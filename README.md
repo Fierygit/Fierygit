@@ -1,5 +1,6 @@
 ### Hello world 👋
 
+[Firefly's blog](https://sourcegraph.com/github.com/Fierygit/notepad/-/blob/README.md)
 
 ![Firefly's github stats](https://github-readme-stats.vercel.app/api?username=Fierygit&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fierygit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
