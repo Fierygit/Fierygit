@@ -1,6 +1,6 @@
 <!--### Hello world 👋-->
 
-### 😄😄😄😄😄😄 <a href="http://write.blog.csdn.net/https://sourcegraph.com/github.com/Fierygit/notepad/-/blob/README.md" target="_blank">Firefly's Blog</a>
+### 😄😄😄😄😄😄 <a href="https://sourcegraph.com/github.com/Fierygit/notepad/-/blob/README.md" target="_blank">Firefly's Blog</a>
 
 ![Firefly's github stats](https://github-readme-stats.vercel.app/api?username=Fierygit&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fierygit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
